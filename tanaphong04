@@ -1,5 +1,0 @@
-width = int(input("enter width (กว้าง): "))
-length = int(input("enter length (ยาว): "))
-area = width * length
-print("Area is:", area)
-print("author by Tanaphong")
